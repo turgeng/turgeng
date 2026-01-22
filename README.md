@@ -1,18 +1,44 @@
-# Hi, I'm Gonca Türgen  
+# Hi, I’m G. 👋
 
-Data Analyst with a background in research and a focus on data storytelling and insights.  
-I transform data into clear, actionable information through structured analysis and visualization.
+I’m a data analyst focused on turning raw data into clear, actionable insights.
+My work centers on data cleaning, exploratory analysis, and practical reporting using Python, SQL, Excel, and Tableau.
 
-## About Me  
-- Transitioning from academic research into data analytics and insights  
-- Skilled in Python (pandas, NumPy), SQL, R (tidyverse), Tableau, and Excel/Sheets  
-- Experienced in data cleaning, exploratory data analysis (EDA), and reporting  
-- Completed the Google Data Analytics Certificate  
-- Currently completing the Google Advanced Data Analytics Certificate  
-- Building a portfolio of data projects focused on real-world datasets
+---
 
-## Currently Exploring  
-- Machine learning foundations with Python  
-- Advanced data visualization and storytelling techniques  
-- Automating workflows using SQL, R and Python  
+## What I Do
 
+* Clean and prepare messy datasets (Excel, CSV, SQL)
+* Perform exploratory data analysis (EDA)
+* Analyze engagement and performance metrics
+* Create clear summaries and decision-ready insights
+* Prepare data for dashboards and further analysis
+
+I prioritize clarity and usefulness over complexity — reliable analysis that supports real decisions.
+
+---
+
+## Selected Project
+
+**TikTok Engagement Analysis – Freelance Sample Project**
+
+* End-to-end EDA on social media engagement data
+* Normalized engagement metrics to reveal hidden patterns
+* Identified relationships between content type, virality, and moderation status
+* Communicated findings in a concise, business-ready format
+
+See the repository for details.
+
+---
+
+## Tools
+
+* Python (pandas, numpy)
+* SQL
+* Excel
+* Tableau
+
+---
+
+## How to Work With Me
+
+If you need help organizing, analyzing, or clearly explaining your data, feel free to reach out.
